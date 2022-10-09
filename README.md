@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [UAbALL](https://github.com/AndreMacielSousa/UAbALL)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning [**Python**](https://github.com/AndreMacielSousa/Python-1st-steps)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreMacielSousa](https://github.com/AndreMacielSousa)
 
